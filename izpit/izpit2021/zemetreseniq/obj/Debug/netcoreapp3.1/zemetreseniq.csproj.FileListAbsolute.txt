@@ -1,0 +1,14 @@
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.csproj.AssemblyReference.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.GeneratedMSBuildEditorConfig.editorconfig
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.AssemblyInfoInputs.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.AssemblyInfo.cs
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.csproj.CoreCompileInputs.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\bin\Debug\netcoreapp3.1\zemetreseniq.exe
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\bin\Debug\netcoreapp3.1\zemetreseniq.deps.json
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\bin\Debug\netcoreapp3.1\zemetreseniq.runtimeconfig.json
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\bin\Debug\netcoreapp3.1\zemetreseniq.runtimeconfig.dev.json
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\bin\Debug\netcoreapp3.1\zemetreseniq.dll
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\bin\Debug\netcoreapp3.1\zemetreseniq.pdb
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.dll
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.pdb
+D:\доника\Projects_vs2019\izpit\izpit2021\zemetreseniq\obj\Debug\netcoreapp3.1\zemetreseniq.genruntimeconfig.cache

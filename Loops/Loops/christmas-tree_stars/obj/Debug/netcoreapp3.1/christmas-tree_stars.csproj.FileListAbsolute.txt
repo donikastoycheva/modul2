@@ -1,0 +1,14 @@
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\bin\Debug\netcoreapp3.1\christmas-tree_stars.exe
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\bin\Debug\netcoreapp3.1\christmas-tree_stars.deps.json
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\bin\Debug\netcoreapp3.1\christmas-tree_stars.runtimeconfig.json
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\bin\Debug\netcoreapp3.1\christmas-tree_stars.runtimeconfig.dev.json
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\bin\Debug\netcoreapp3.1\christmas-tree_stars.dll
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\bin\Debug\netcoreapp3.1\christmas-tree_stars.pdb
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.csproj.AssemblyReference.cache
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.AssemblyInfoInputs.cache
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.AssemblyInfo.cs
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.csproj.CoreCompileInputs.cache
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.dll
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.pdb
+D:\доника\Projects_vs2019\Loops\Loops\christmas-tree_stars\obj\Debug\netcoreapp3.1\christmas-tree_stars.genruntimeconfig.cache

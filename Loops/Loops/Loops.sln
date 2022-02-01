@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "equal-pairs_ofNumbers", "equal-pairs_ofNumbers\equal-pairs_ofNumbers.csproj", "{06C477AB-7746-4EA0-8579-A8AF3E92496E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-equals-with-sum-of-other-E", "E-equals-with-sum-of-other-E\E-equals-with-sum-of-other-E.csproj", "{C44B48B5-B774-4A31-BB0D-8BE7D9C918E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "christmas-tree_stars", "christmas-tree_stars\christmas-tree_stars.csproj", "{72C6B4DD-1F9B-4A23-AB19-CF6BB81C91A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sunglasses", "sunglasses\sunglasses.csproj", "{EB15DE36-E94C-4761-8E8C-A75DC7E7000D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C477AB-7746-4EA0-8579-A8AF3E92496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C477AB-7746-4EA0-8579-A8AF3E92496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C477AB-7746-4EA0-8579-A8AF3E92496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C477AB-7746-4EA0-8579-A8AF3E92496E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44B48B5-B774-4A31-BB0D-8BE7D9C918E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44B48B5-B774-4A31-BB0D-8BE7D9C918E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44B48B5-B774-4A31-BB0D-8BE7D9C918E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44B48B5-B774-4A31-BB0D-8BE7D9C918E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C6B4DD-1F9B-4A23-AB19-CF6BB81C91A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C6B4DD-1F9B-4A23-AB19-CF6BB81C91A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C6B4DD-1F9B-4A23-AB19-CF6BB81C91A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C6B4DD-1F9B-4A23-AB19-CF6BB81C91A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB15DE36-E94C-4761-8E8C-A75DC7E7000D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB15DE36-E94C-4761-8E8C-A75DC7E7000D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB15DE36-E94C-4761-8E8C-A75DC7E7000D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB15DE36-E94C-4761-8E8C-A75DC7E7000D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47DA22A-CF55-47EC-9CC1-6A1187C5AA55}
+	EndGlobalSection
+EndGlobal

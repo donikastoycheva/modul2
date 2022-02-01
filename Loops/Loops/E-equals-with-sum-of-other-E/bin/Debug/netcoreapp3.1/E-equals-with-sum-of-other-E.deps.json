@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E-equals-with-sum-of-other-E/1.0.0": {
+        "runtime": {
+          "E-equals-with-sum-of-other-E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-equals-with-sum-of-other-E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

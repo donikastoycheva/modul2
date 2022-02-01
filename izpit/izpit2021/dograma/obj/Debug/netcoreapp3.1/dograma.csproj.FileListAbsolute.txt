@@ -1,0 +1,14 @@
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\bin\Debug\netcoreapp3.1\dograma.exe
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\bin\Debug\netcoreapp3.1\dograma.deps.json
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\bin\Debug\netcoreapp3.1\dograma.runtimeconfig.json
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\bin\Debug\netcoreapp3.1\dograma.runtimeconfig.dev.json
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\bin\Debug\netcoreapp3.1\dograma.dll
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\bin\Debug\netcoreapp3.1\dograma.pdb
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.csproj.AssemblyReference.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.AssemblyInfoInputs.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.AssemblyInfo.cs
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.csproj.CoreCompileInputs.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.dll
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.pdb
+D:\доника\Projects_vs2019\izpit\izpit2021\dograma\obj\Debug\netcoreapp3.1\dograma.genruntimeconfig.cache

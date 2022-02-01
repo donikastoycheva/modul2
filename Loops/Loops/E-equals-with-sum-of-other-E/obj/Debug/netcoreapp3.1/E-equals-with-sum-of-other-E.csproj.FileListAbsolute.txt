@@ -1,0 +1,14 @@
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\bin\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.exe
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\bin\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.deps.json
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\bin\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.runtimeconfig.json
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\bin\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.runtimeconfig.dev.json
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\bin\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.dll
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\bin\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.pdb
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.csproj.AssemblyReference.cache
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.GeneratedMSBuildEditorConfig.editorconfig
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.AssemblyInfoInputs.cache
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.AssemblyInfo.cs
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.csproj.CoreCompileInputs.cache
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.dll
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.pdb
+D:\доника\Projects_vs2019\Loops\Loops\E-equals-with-sum-of-other-E\obj\Debug\netcoreapp3.1\E-equals-with-sum-of-other-E.genruntimeconfig.cache

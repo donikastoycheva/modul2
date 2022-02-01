@@ -1,0 +1,14 @@
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\bin\Debug\netcoreapp3.1\equal-pairs_ofNumbers.exe
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\bin\Debug\netcoreapp3.1\equal-pairs_ofNumbers.deps.json
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\bin\Debug\netcoreapp3.1\equal-pairs_ofNumbers.runtimeconfig.json
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\bin\Debug\netcoreapp3.1\equal-pairs_ofNumbers.runtimeconfig.dev.json
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\bin\Debug\netcoreapp3.1\equal-pairs_ofNumbers.dll
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\bin\Debug\netcoreapp3.1\equal-pairs_ofNumbers.pdb
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.csproj.AssemblyReference.cache
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.AssemblyInfoInputs.cache
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.AssemblyInfo.cs
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.csproj.CoreCompileInputs.cache
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.dll
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.pdb
+D:\доника\Projects_vs2019\Loops\Loops\equal-pairs_ofNumbers\obj\Debug\netcoreapp3.1\equal-pairs_ofNumbers.genruntimeconfig.cache

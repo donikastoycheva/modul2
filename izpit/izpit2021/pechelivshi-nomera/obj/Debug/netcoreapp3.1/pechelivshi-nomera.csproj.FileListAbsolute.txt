@@ -1,0 +1,13 @@
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\bin\Debug\netcoreapp3.1\pechelivshi-nomera.exe
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\bin\Debug\netcoreapp3.1\pechelivshi-nomera.deps.json
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\bin\Debug\netcoreapp3.1\pechelivshi-nomera.runtimeconfig.json
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\bin\Debug\netcoreapp3.1\pechelivshi-nomera.runtimeconfig.dev.json
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\bin\Debug\netcoreapp3.1\pechelivshi-nomera.dll
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\bin\Debug\netcoreapp3.1\pechelivshi-nomera.pdb
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.GeneratedMSBuildEditorConfig.editorconfig
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.AssemblyInfoInputs.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.AssemblyInfo.cs
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.csproj.CoreCompileInputs.cache
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.dll
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.pdb
+D:\доника\Projects_vs2019\izpit\izpit2021\pechelivshi-nomera\obj\Debug\netcoreapp3.1\pechelivshi-nomera.genruntimeconfig.cache
